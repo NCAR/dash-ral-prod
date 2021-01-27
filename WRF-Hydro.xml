@@ -70,7 +70,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2021-01-19T14:34:29</gco:DateTime>
+        <gco:DateTime>2021-01-20T14:34:29</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -562,11 +562,11 @@
             <gmd:abstract>
                 <gco:CharacterString>The Weather Research and Forecasting Model Hydrological modeling system (WRF-Hydro) was developed as a community-based, open source, model coupling framework designed to link multi-scale process models of the atmosphere and terrestrial hydrology to provide:
                         
-                      An extensible multi-scale &amp; multi-physics land-atmosphere modeling capability for conservative, coupled and uncoupled assimilation &amp; prediction of major water cycle components such as: precipitation, soil moisture, snow pack, ground water, streamflow, and inundation. 
+* An extensible multi-scale &amp; multi-physics land-atmosphere modeling capability for conservative, coupled and uncoupled assimilation &amp; prediction of major water cycle components such as: precipitation, soil moisture, snow pack, ground water, streamflow, and inundation. 
                       
-                      Accurate and reliable streamflow prediction across scales (from 0-order headwater catchments to continental river basins and from minutes to seasons). 
+* Accurate and reliable streamflow prediction across scales (from 0-order headwater catchments to continental river basins and from minutes to seasons). 
                       
-                      A research modeling testbed for evaluating and improving physical process and coupling representations</gco:CharacterString>
+* A research modeling testbed for evaluating and improving physical process and coupling representations</gco:CharacterString>
             </gmd:abstract>
             <gmd:credit>
                 <gco:CharacterString>NSF, NASA, NOAA, Baron</gco:CharacterString>
