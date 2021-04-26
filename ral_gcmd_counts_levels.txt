@@ -1,14 +1,6 @@
+habitat modeling Count: 1 Level 1
+
 software Count: 1 Level 1
-
-earth science > climate indicators > atmospheric/ocean indicators > fresh water river discharge Count: 2 Level 4
-
-earth science > atmosphere > precipitation > precipitation amount Count: 1 Level 4
-
-earth science > atmosphere > atmospheric temperature > surface temperature > air temperature Count: 1 Level 5
-
-earth science > terrestrial hydrosphere > surface water > surface water features > rivers/streams Count: 2 Level 5
-
-earth science > terrestrial hydrosphere > surface water > watershed characteristics Count: 1 Level 4
 
 aircraft Count: 1 Level 1
 
@@ -82,6 +74,10 @@ ocean > pacific ocean > central pacific ocean Count: 1 Level 3
 
 earth science > climate indicators > atmospheric/ocean indicators > precipitation indicators Count: 1 Level 4
 
+earth science > terrestrial hydrosphere > surface water > surface water features > rivers/streams Count: 2 Level 5
+
+earth science > climate indicators > atmospheric/ocean indicators > fresh water river discharge Count: 2 Level 4
+
 earth science > land surface > soils > soil depth Count: 1 Level 4
 
 earth science > land surface > soils > soil texture Count: 1 Level 4
@@ -90,7 +86,11 @@ earth science > solid earth > rocks/minerals/crystals > bedrock lithology Count:
 
 earth science > biosphere > ecosystems > terrestrial ecosystems > karst landscape Count: 1 Level 5
 
-habitat modeling Count: 1 Level 1
+earth science > atmosphere > precipitation > precipitation amount Count: 1 Level 4
+
+earth science > atmosphere > atmospheric temperature > surface temperature > air temperature Count: 1 Level 5
+
+earth science > terrestrial hydrosphere > surface water > watershed characteristics Count: 1 Level 4
 
 Level 1: 7
 Level 2: 2
