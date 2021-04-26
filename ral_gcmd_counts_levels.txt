@@ -1,0 +1,100 @@
+software Count: 1 Level 1
+
+earth science > climate indicators > atmospheric/ocean indicators > fresh water river discharge Count: 2 Level 4
+
+earth science > atmosphere > precipitation > precipitation amount Count: 1 Level 4
+
+earth science > atmosphere > atmospheric temperature > surface temperature > air temperature Count: 1 Level 5
+
+earth science > terrestrial hydrosphere > surface water > surface water features > rivers/streams Count: 2 Level 5
+
+earth science > terrestrial hydrosphere > surface water > watershed characteristics Count: 1 Level 4
+
+aircraft Count: 1 Level 1
+
+wp-3d orion > lockheed wp-3d orion Count: 1 Level 2
+
+wc-130j > lockheed-martin wc-130j hercules Count: 1 Level 2
+
+step frequency radiometers Count: 1 Level 1
+
+dropsondes Count: 1 Level 1
+
+rosemount probes Count: 1 Level 1
+
+gps sonde Count: 1 Level 1
+
+earth science > atmosphere > weather events > tropical cyclones Count: 1 Level 4
+
+earth science > atmosphere > weather events > tropical cyclones > peak intensity Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > peak intensity > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > landfall intensity Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > landfall intensity > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > maximum 1-minute sustained wind Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > maximum 1-minute sustained wind > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > maximum surface wind Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > maximum surface wind > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > maximum wind gust Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > maximum wind gust > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone radius Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone radius > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > minimum central pressure Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > minimum central pressure > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone force wind extent Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone force wind extent > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone motion Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone motion > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone track Count: 1 Level 5
+
+earth science > atmosphere > weather events > tropical cyclones > tropical cyclone track > hurricanes (n. atlantic/e. pacific) Count: 1 Level 6
+
+earth science > human dimensions > natural hazards > tropical cyclones Count: 1 Level 4
+
+earth science > human dimensions > natural hazards > tropical cyclones > hurricanes Count: 1 Level 5
+
+ocean > atlantic ocean > north atlantic ocean Count: 1 Level 3
+
+ocean > atlantic ocean > north atlantic ocean > caribbean sea Count: 1 Level 4
+
+ocean > atlantic ocean > north atlantic ocean > gulf of mexico Count: 1 Level 4
+
+ocean > pacific ocean > eastern pacific ocean Count: 1 Level 3
+
+ocean > pacific ocean > central pacific ocean Count: 1 Level 3
+
+earth science > climate indicators > atmospheric/ocean indicators > precipitation indicators Count: 1 Level 4
+
+earth science > land surface > soils > soil depth Count: 1 Level 4
+
+earth science > land surface > soils > soil texture Count: 1 Level 4
+
+earth science > solid earth > rocks/minerals/crystals > bedrock lithology Count: 1 Level 4
+
+earth science > biosphere > ecosystems > terrestrial ecosystems > karst landscape Count: 1 Level 5
+
+habitat modeling Count: 1 Level 1
+
+Level 1: 7
+Level 2: 2
+Level 3: 3
+Level 4: 11
+Level 5: 14
+Level 6: 10
