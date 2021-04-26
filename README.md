@@ -13,6 +13,11 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
 ## RAL Completeness Graph
+
+![GCMD Keywords](https://github.com/NCAR/dash-ral-prod/blob/master/ral_gcmd_counts_levels.txt)
+
+![GCMD Level Counts](https://github.com/NCAR/dash-ral-prod/blob/master/ral_gcmd_counts_levels.txt#L95)
+
 ![RAL Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/RAL/barcharts/ral.png)
 
 ## Publisher Information
