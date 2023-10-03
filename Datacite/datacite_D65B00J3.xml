@@ -2,7 +2,7 @@
 <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <gmd:fileIdentifier>
-        <gco:CharacterString>10.5065/D6BC3X95</gco:CharacterString>
+        <gco:CharacterString>10.5065/d65b00j3</gco:CharacterString>
     </gmd:fileIdentifier>
 
     <gmd:language>
@@ -21,10 +21,10 @@
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
             <gmd:individualName>
-                <gco:CharacterString>Tropical Cyclone Guidance Project</gco:CharacterString>
+                <gco:CharacterString>Daniel R. Chavas</gco:CharacterString>
             </gmd:individualName>
             <gmd:organisationName>
-                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                <gco:CharacterString/>
             </gmd:organisationName>
             <gmd:positionName>
                 <gco:CharacterString/>
@@ -34,7 +34,7 @@
                    <gmd:address>
                        <gmd:CI_Address>
                            <gmd:electronicMailAddress>
-                               <gco:CharacterString>ral-tcgp@ucar.edu</gco:CharacterString>
+                               <gco:CharacterString>drchavas@gmail.com</gco:CharacterString>
                            </gmd:electronicMailAddress>
                        </gmd:CI_Address>
                    </gmd:address>
@@ -47,7 +47,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2020-01-02T10:45:23</gco:DateTime>
+        <gco:DateTime>2023-10-03T11:21:18.005296</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -59,7 +59,7 @@
     </gmd:metadataStandardVersion>
 
     <gmd:dataSetURI>
-        <gco:CharacterString>https://doi.org/10.5065/D6BC3X95</gco:CharacterString>
+        <gco:CharacterString>https://doi.org/10.5065/d65b00j3</gco:CharacterString>
     </gmd:dataSetURI>
 
     <gmd:identificationInfo>
@@ -67,12 +67,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>TC-OBS: The Tropical Cyclone Observations-Based Structure Database</gco:CharacterString>
+                        <gco:CharacterString>QSCAT-R: The QuikSCAT Tropical Cyclone Radial Structure Dataset</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2018</gco:Date>
+                                <gco:Date>2015</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="./resources/codeList.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -81,6 +81,35 @@
                     </gmd:date>
 
                     <gmd:citedResponsibleParty>
+                       <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                               <gco:CharacterString>Chavas, Daniel R.</gco:CharacterString>
+                           </gmd:individualName>
+                        <gmd:organisationName>
+                            <gco:CharacterString/>
+                        </gmd:organisationName>
+                        <gmd:positionName>
+                            <gco:CharacterString/>
+                        </gmd:positionName>
+                           <gmd:contactInfo>
+                               <gmd:CI_Contact>
+                                   <gmd:address>
+                                       <gmd:CI_Address>
+                                           <gmd:electronicMailAddress>
+                                               <gco:CharacterString/>
+                                           </gmd:electronicMailAddress>
+                                       </gmd:CI_Address>
+                                   </gmd:address>
+                               </gmd:CI_Contact>
+                           </gmd:contactInfo>
+
+                           <gmd:role>
+                               <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                           </gmd:role>
+                       </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+
+                <gmd:citedResponsibleParty>
                        <gmd:CI_ResponsibleParty>
                            <gmd:individualName>
                                <gco:CharacterString>Vigh, Jonathan</gco:CharacterString>
@@ -115,7 +144,7 @@
                                <gco:CharacterString/>
                            </gmd:individualName>
                         <gmd:organisationName>
-                            <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            <gco:CharacterString>UCAR/NCAR -- Research Applications Laboratory</gco:CharacterString>
                         </gmd:organisationName>
                         <gmd:positionName>
                             <gco:CharacterString/>
@@ -170,7 +199,7 @@
                 <gmd:citedResponsibleParty>
                        <gmd:CI_ResponsibleParty>
                            <gmd:individualName>
-                               <gco:CharacterString>Risk Prediction Initiative (RPI2.0)</gco:CharacterString>
+                               <gco:CharacterString>Princeton University</gco:CharacterString>
                            </gmd:individualName>
                         <gmd:organisationName>
                             <gco:CharacterString/>
@@ -191,7 +220,7 @@
                            </gmd:contactInfo>
 
                            <gmd:role>
-                               <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="sponsor">sponsor</gmd:CI_RoleCode>
+                               <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="rightsHolder">rightsHolder</gmd:CI_RoleCode>
                            </gmd:role>
                        </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
@@ -199,18 +228,16 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>A new historical database of tropical cyclone (TC) parameters has been constructed from satellite and aircraft observations. Called the Tropical Cyclone Observations-Based Structure Database (TC-OBS), this database uses objective state estimation algorithms to refine existing historical estimates of the following key parameters: track, intensity, and size (radial extent of winds of a given threshold). Additionally, TC-OBS provides estimates of the radius of maximum winds (RMW), a quantity that has not previously been included as a &#8220;best-tracked&#8221; quantity in existing historical databases. TC-OBS also provides time-dependent uncertainty bounds on the estimates of these four main quantities. Compared with existing historical databases such as the Hurricane Database (HURDAT2, also known as the &#8220;Best Track Dataset&#8221;), TC-OBS provides track, intensity, and radius information at higher spatial and temporal precision. Whereas HURDAT2 rounds track points to the nearest tenth of a degree, intensity to the nearest 5-kt increment, and wind radii to 5-nm or even 10-nm increments, TC-OBS does not round any of its estimates to artificial thresholds. While HURDAT generally provides parameters every six hours, TC-OBS provides estimates of all parameters for each hour as well as any of the off-synoptic time points included in HURDAT2. Like HURDAT2, TC-OBS provides estimates of the 34- , 50-, and 64-kt wind radii (size), but TC-OBS also adds estimates for the radial extent of Category 2, 3, 4, and 5 wind speed thresholds (83-kt, 96-kt, 113-kt, and 135-kt). Whenever data coverage are sufficient, TC-OBS also includes estimates of the azimuthal mean wind speed. Finally, TC-OBS is set up to include alternative metrics beyond the traditional metrics for intensity and size. One such metric is related to the spatial and temporal coherence of the location of wind maxima. The database was originally built for wind risk applications, but a wide range of scientific and commercial uses can be envisioned. &#13;
-&#13;
-TC-OBS currently includes data for all TCs that occurred in the North Atlantic basin from 1999 to 2013. Somewhat more than half of all Atlantic TCs were sampled by aircraft frequently enough to provide useful input data for TC-OBS. Additionally, since aircraft reconnaissance generally commences when TCs move west of 55 deg in the basin, TC-OBS does not provide observational refinement for TCs in the eastern half of the basin. For the most part however, there is good aircraft coverage during nearly all periods in which TCs were threatening land, so TC-OBS provides observational refinements for nearly all the impactful landfalls in the basin. The current version of TC-OBS (v0.42) provides observational refinements for 253 of the 416 TCs that occurred during 1999 to 2013.</gco:CharacterString>
+                <gco:CharacterString>QSCAT-R contains data for the radial structure of near-surface wind and rain rate for tropical cyclones globally during the period 1999-2009. The dataset is derived from the corresponding two-dimensional data fields originally estimated from QuikSCAT satellite measurements and optimized for analysis of tropical cyclones within the NASA Jet Propulsion Laboratory (JPL) QuikSCAT Tropical Cyclone database. QSCAT-R includes radial profiles of total wind speed and its azimuthal and radial components and corresponding estimates of canonical wind radii, as well as radial profiles of a quantity proportional to rain rate and, when available, collocated SSM/I cloud liquid data. Additionally, data coverage necessarily varies in space and time due to the nature of satellite remote sensing, and thus QSCAT-R provides a parametric measure of data asymmetry to help quantify this form of uncertainty. Overall, as a relatively small dataset (~100 MB) written in a user-friendly NetCDF format, QSCAT-R offers the research community a significant new tool for the analysis of the radial structure of tropical cyclones in nature.</gco:CharacterString>
             </gmd:abstract>
 
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Vigh, Jonathan, jvigh@ucar.edu</gco:CharacterString>
+                        <gco:CharacterString>Daniel R. Chavas</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                        <gco:CharacterString/>
                     </gmd:organisationName>
                     <gmd:positionName>
                         <gco:CharacterString/>
@@ -220,7 +247,7 @@ TC-OBS currently includes data for all TCs that occurred in the North Atlantic b
                             <gmd:address>
                             <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                            <gco:CharacterString>ral-tcgp@ucar.edu</gco:CharacterString>
+                            <gco:CharacterString>drchavas@gmail.com</gco:CharacterString>
                             </gmd:electronicMailAddress>
                             </gmd:CI_Address>
                             </gmd:address>
@@ -231,7 +258,14 @@ TC-OBS currently includes data for all TCs that occurred in the North Atlantic b
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
-
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>NetCDF-4</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="missing"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
@@ -292,49 +326,25 @@ TC-OBS currently includes data for all TCs that occurred in the North Atlantic b
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > TYPHOONS</gco:CharacterString>
+                        <gco:CharacterString>​QuikSCAT</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > SEVERE TROPICAL CYCLONES</gco:CharacterString>
+                        <gco:CharacterString>tropical cyclone</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > HURRICANES</gco:CharacterString>
+                        <gco:CharacterString>hurricane</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > CYCLONES</gco:CharacterString>
+                        <gco:CharacterString>wind field</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES</gco:CharacterString>
+                        <gco:CharacterString>structure</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS > TYPHOONS (WESTERN N. PACIFIC)</gco:CharacterString>
+                        <gco:CharacterString>size</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS > SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS > SEVERE CYCLONIC STORMS (N. INDIAN)</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS > HURRICANES (N. ATLANTIC/E. PACIFIC)</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS > CYCLONES (SW INDIAN)</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE RADIUS</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > MAXIMUM SURFACE WIND</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > TROPICAL CYCLONE TRACK</gco:CharacterString>
-                    </gmd:keyword>
-                    <gmd:keyword>
-                        <gco:CharacterString>EARTH SCIENCE > ATMOSPHERE > WEATHER EVENTS > TROPICAL CYCLONES > MAXIMUM WIND GUST</gco:CharacterString>
+                        <gco:CharacterString>radial profile</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="./resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -384,18 +394,34 @@ TC-OBS currently includes data for all TCs that occurred in the North Atlantic b
             <gmd:resourceConstraints>
                 <gmd:MD_LegalConstraints>
                     <gmd:useLimitation>
-                        <gco:CharacterString>Use of these data is subject to a data user agreement and license. Copyright 2018 University Corporation for Atmospheric Research, Research Applications Laboratory, Joint Numerical Testbed Program (See https://verif.rap.ucar.edu/tcdata/historical/database/data_user_agreement_and_license.php )</gco:CharacterString>
+                        <gco:CharacterString>Use of these data are subject to a data user agreement and license. Copyright 2015 Princeton University. (See also http://verif.rap.ucar.edu/tcdata/quikscat/dataset/data_user_agreement_and_license.php )</gco:CharacterString>
                     </gmd:useLimitation>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>None</gco:CharacterString>
+                        <gco:CharacterString>Access Constraints: Free Access</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
             <gmd:language>
                 <gco:CharacterString>en</gco:CharacterString>
             </gmd:language>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                    <gmd:description>
+                        <gco:CharacterString/>
+                    </gmd:description>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="timePeriodDate">
+                                    <gml:beginPosition>2000-01-06T06:54</gml:beginPosition>
+                                    <gml:endPosition>2009-11-21T21:11</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_Extent>
+            </gmd:extent>
         </gmd:MD_DataIdentification>
     </gmd:identificationInfo>
-
 </gmd:MD_Metadata>
 
