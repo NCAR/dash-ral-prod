@@ -14,7 +14,7 @@ https://www.ncei.noaa.gov/sites/default/files/2020-04/ISO%2019115-2%20Workbook_P
 
 ## RAL Completeness Graph
 
-![RAL Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/All/barcharts/ral.png)
+![RAL Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/main/actions/All/barcharts/ral.png)
 
 ## Publisher Information
 
